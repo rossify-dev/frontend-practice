@@ -16,5 +16,3 @@
 - 🔹 Репозиторію: [HoanghoDev/slider_1](https://github.com/HoanghoDev/slider_1/tree/main)
 - 🎥 Відеоуроку: [Create a Slider in JavaScript | LunDev](https://www.youtube.com/watch?v=j7GG009J9uc&ab_channel=LunDev)
 
-
-Зроблено для навчання та практики.
