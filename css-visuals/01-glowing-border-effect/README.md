@@ -1,5 +1,7 @@
 # Glowing Border Effect
 
+Демо: 🔗 [Переглянути ефект на GitHub Pages](https://rostyslav-shevchuk-21.github.io/frontend-practice/css-visuals/01-glowing-border-effect/)
+
 Цей ефект був натхненний яскравим, анімованим обводом у стилі AI Mode від Google.
 
 
