@@ -8,4 +8,4 @@
 
 ## 📁 Структура
 
-- [slider-crazy-effect](./01-slider-crazy-effect/)
+- [vanilla-js-carousel](./01-vanilla-js-carousel/)
