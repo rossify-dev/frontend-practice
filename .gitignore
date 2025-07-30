@@ -1,6 +1,16 @@
-node_modules
-dist
+# Системні та IDE файли
+.DS_Store
 .vscode
 .idea
-.DS_Store
+
+# Node.js
+node_modules
+
+# Збірка/білд
+dist
+build
+
+# Секретні дані
 .env
+.env.local
+.env.*.local
